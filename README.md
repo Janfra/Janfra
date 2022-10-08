@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Janfra. I am a programmer that enjoy doing games as a hobby!
+- 👋 Hi, I’m @Janfra. I am a programmer that enjoys doing games as a hobby!
 - 🌱 I’m currently learning how to make new game mechanics and improving that ones I have already tried
 - 💞️ I’m looking to collaborate on games or components to add to my personal library!
 - 📫 How to reach me: janfrancoherrera@gmail.com

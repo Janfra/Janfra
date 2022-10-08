@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Janfra
-- 👀 I’m interested in making and playing games!
-- 🌱 I’m currently learning ... how to make games
-- 💞️ I’m looking to collaborate on ... Games
-- 📫 How to reach me: theaxolotlforest@gmail.com
+- 👋 Hi, I’m @Janfra. I am a programmer that enjoy doing games as a hobby!
+- 🌱 I’m currently learning how to make new game mechanics and improving that ones I have already tried
+- 💞️ I’m looking to collaborate on games or components to add to my personal library!
+- 📫 How to reach me: janfrancoherrera@gmail.com
 
 <!---
 Janfra/Janfra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

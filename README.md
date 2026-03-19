@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Janfra. I am a gameplay programmer that also enjoys doing games as a hobby!
-- 🌱 I’m currently learning how to make new game mechanics and improving that ones I have already tried
-- 💞️ I’m looking to collaborate on games or components to add to my personal library!
+- 👋 Hi, I’m @Janfra. I am a programmer that also enjoys doing games as a hobby!
+- 💞️ I’m looking to collaborate on games or interesting projects!
 - 📫 How to reach me: [LinkedIn!](https://www.linkedin.com/in/janfranco-herrera/)
 
 <!---
